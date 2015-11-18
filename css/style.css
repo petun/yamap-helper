@@ -1,0 +1,14 @@
+.wrapper {
+  overflow: hidden; }
+  .wrapper h1 {
+    font-size: 20px; }
+  .wrapper #map {
+    float: left;
+    width: 500px;
+    height: 500px; }
+  .wrapper .params {
+    margin-left: 520px; }
+    .wrapper .params span {
+      font-weight: bold; }
+
+/*# sourceMappingURL=style.css.map */

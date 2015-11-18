@@ -1,0 +1,20 @@
+.wrapper {
+  overflow: hidden;
+  h1 {
+    font-size: 20px;
+  }
+
+  #map {
+    float: left;
+    width: 500px;
+    height: 500px;
+  }
+
+  .params {
+    margin-left: 520px;
+
+    span {
+      font-weight: bold;
+    }
+  }
+}
